@@ -6,7 +6,7 @@ Figma design by [Irvan Moses](https://dribbble.com/irvan_moses)
 
 ![Preview](https://i.ibb.co/r6wHtcW/image.png)
 
-You can see the [DEMO](https://nefa.netlify.app)
+You can see the [DEMO](https://nefa-crypto.vercel.app/)
 
 ## How to start the web
 
@@ -26,9 +26,3 @@ yarn build
 ```bash
 yarn test
 ```
-
-## Contributor
-
-## License
-
-Source code is under MIT license
